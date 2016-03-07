@@ -1,7 +1,7 @@
 name: formito
 favicon: null
 layout_spectrum: 0.01363181322813034
-typography_spectrum: 0.0549068262334913
+typography_spectrum: 0.14354
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#25c8b4'
+    - '#4a4a4a'
+    - '#000000'
+    - '#808080'
+    - '#008080'
   brandStrength: 0.2120345151051879
   lightness: 0.2727482442278415
   saturation: 0.7566582462750375
