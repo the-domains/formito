@@ -1,6 +1,6 @@
 name: formito
 favicon: null
-layout_spectrum: 0.01363181322813034
+layout_spectrum: 0.65332
 typography_spectrum: 0.14354
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#808080'
     - '#008080'
-  brandStrength: 0.2120345151051879
+  brandStrength: 0.5
   lightness: 0.2727482442278415
   saturation: 0.7566582462750375
   rhythmicContrast: 0.39323577168397605
