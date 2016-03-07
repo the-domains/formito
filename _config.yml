@@ -1,0 +1,28 @@
+name: formito
+favicon: null
+layout_spectrum: 0.01363181322813034
+typography_spectrum: 0.0549068262334913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2120345151051879
+  lightness: 0.2727482442278415
+  saturation: 0.7566582462750375
+  rhythmicContrast: 0.39323577168397605
+purpose: []
