@@ -1,28 +1,40 @@
-name: formito
-favicon: null
 layout_spectrum: 0.87765
-typography_spectrum: 0.64836
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#25c8b4'
-    - '#4a4a4a'
-    - '#000000'
-    - '#808080'
-    - '#008080'
-  brandStrength: 0.8125
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 0.7698145
+  lightness: 1
+  brandColors:
+    - '#5B91DF'
+    - '#161F2F'
+    - '#FFFFFF'
+    - '#888077'
+    - '#1FE9FF'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.64836
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: formito
